@@ -1,6 +1,9 @@
 Specific Requirements
 =====================
 
+.. image::
+   https://raw.github.com/androportal/aakash_bazaar_client/master/res/drawable/screenshots/ab-app-list.png
+
 	**External Interface Requirements**
 
 		- Login interface
@@ -13,9 +16,8 @@ Specific Requirements
 
 		- User Dashboard
 
-			Fig
-		.. image::
-   https://raw.github.com/androportal/aakash_bazaar_client/master/res/drawable/screenshots/ab-app-list.png
+			
+
 
 		- Courseware interface
 
