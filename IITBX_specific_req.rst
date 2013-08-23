@@ -15,7 +15,8 @@ Specific Requirements
 
 		- User Dashboard
 
-			
+		.. image:: 
+		   https://raw.github.com/NileshSingh/IITBX_Document/blob/master/images/User_Dashboard.png
 
 
 		- Courseware interface
