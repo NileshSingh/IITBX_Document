@@ -14,8 +14,8 @@ Specific Requirements
 		- User Dashboard
 
 			Fig
-			.. image::
-			https://raw.github.com/NileshSingh/_image/blob/master/User_Dashboard.png
+		.. image::
+   https://raw.github.com/androportal/aakash_bazaar_client/master/res/drawable/screenshots/ab-app-list.png
 
 		- Courseware interface
 
