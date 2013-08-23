@@ -13,7 +13,9 @@ Specific Requirements
 
 		- User Dashboard
 
-			Fig.image:: `<https://raw.github.com/NileshSingh/_image/blob/master/User_Dashboard.png>`_
+			Fig
+			.. image::
+			https://raw.github.com/NileshSingh/_image/blob/master/User_Dashboard.png
 
 		- Courseware interface
 
