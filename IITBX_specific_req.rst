@@ -1,8 +1,7 @@
 Specific Requirements
 =====================
 
-.. image::
-   https://raw.github.com/androportal/aakash_bazaar_client/master/res/drawable/screenshots/ab-app-list.png
+
 
 	**External Interface Requirements**
 
