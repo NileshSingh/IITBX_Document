@@ -13,7 +13,7 @@ Specific Requirements
 
 		- User Dashboard
 
-			Fig.
+			`<https://github.com/NileshSingh/_image/blob/master/User_Dashboard.png>`_
 
 		- Courseware interface
 
