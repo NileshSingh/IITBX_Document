@@ -13,7 +13,11 @@ Specific Requirements
 
 		- User Dashboard
 
-			`<https://github.com/NileshSingh/_image/blob/master/User_Dashboard.png>`_
+			image:: `<https://github.com/NileshSingh/_image/blob/master/User_Dashboard.png>`_
+   			:height: 100px
+			:width: 200 px
+   			:scale: 50 %
+   			:alt: alternate text
 
 		- Courseware interface
 
