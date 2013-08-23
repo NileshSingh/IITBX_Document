@@ -23,14 +23,14 @@ IITBX Document
 			- References
 			- Overview
 	
-		#. Overall Description
+		#. `Overall Description <https://github.com/NileshSingh/IITBX_Document/blob/master/Overall_discription.rst>`_
 			- Product Perspective
 			- Product Functionality
 			- User Characteristics
 			- Operating Environment
 			- Design and Implementation Constraints
 
-		#. Specific Requirements
+		#. `Specific Requirements <https://github.com/NileshSingh/IITBX_Document/blob/master/IITBX_specific_req.rst>`_
 			- External Interface Requirements
 				- Login interface
 				- Registration interface
@@ -70,7 +70,7 @@ IITBX Document
 				- Use case view
 				- Activity diagrams
 
-		#. Other non-functional requirements
+		#. `Other non-functional requirements <https://github.com/NileshSingh/IITBX_Document/blob/master/non_fn_req.rst>`_
 			- Performance requirements
 			- Safety and Security Requirements
 			- Software quality attributes
