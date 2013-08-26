@@ -193,7 +193,6 @@ Fig.
 **Registration Page**
 
 - Registration page to create an account.
-
 .. image::
   https://github.com/NileshSingh/IITBX_Document/master/usermanual_image/usermanual_registration_page.png
 
@@ -219,7 +218,6 @@ Fig.
 - To see what are the course available click on Find Courses now.
 
 - Then new will be displayed like this.
-
 .. image::
   https://github.com/NileshSingh/IITBX_Document/master/usermanual_image/finding_course.png
 Fig.
