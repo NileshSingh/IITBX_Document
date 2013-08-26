@@ -239,9 +239,6 @@ Fig.
 - After clicking on the course you will get a page asking to register that course.
 
 
-  
-Fig.
-
 - Click on REGISTER FOR IAP2013 (here )	
 
 - Then you are registered the course.
@@ -249,12 +246,16 @@ Fig.
 - To view the course Just Click on View Course.
 
 .. image::
-  https://raw.github.com/NileshSingh/IITBX_Document/blob/master/usermanual_image/registering_course3.png
+  https://raw.github.com/NileshSingh/IITBX_Document/master/usermanual_image/registering_course3.png
 Fig.
 - When you Click on view course to view videos, reading materials and quizsetc
 - The page looks like this
+.. image::
+  https://raw.github.com/NileshSingh/IITBX_Document/master/usermanual_image/registering_course4.png
 Fig.
+
 **Accessing Course Contents**
+
 Here click on Course info  or It is default which shows any update news and information about the course
 Click  on Courseware to view all videos, reading materials etc
 When we click on Courseware it shows the sections of course as week1, week2 and so on.
@@ -262,23 +263,37 @@ And The one that you recently used.
 Click on week1 to get week1 material.
 To get the corresponding things click on its subsections
 e.g. Introduction to Android Programming here
+.. image::
+  https://raw.github.com/NileshSingh/IITBX_Document/master/usermanual_image/accessing_course1.png
 Fig.
 - Then it shows the units it have e.g. here video
+.. image::
+  https://raw.github.com/NileshSingh/IITBX_Document/master/usermanual_image/accessing_course2.png
 Fig.
+
 **Multiple Choice Questions**
+
 - Click on the option to give your answer
+
 - Then click on check to check your answer
+.. image::
+  https://raw.github.com/NileshSingh/IITBX_Document/master/usermanual_image/multiple_choice.png
 Fig.
+
 - Click on Show Answer to see the explanation of the answer
+
 
 **Usage of Buttons on the bar**
 
 - When we click on below things the first red mark it will give the video.
 - The second marked one gives the Discussion forum.
-Fig.
+
 **Multiple components in the same unit**
+
 - For example, a unit can have one or more components i.e. quiz, video and reading material components 
   can be displayed in same unit.
+.. image::
+  https://raw.github.com/NileshSingh/IITBX_Document/master/usermanual_image/multiple_component_in sameUnit.png
 Fig.
 
 **To go to profile**
@@ -286,34 +301,58 @@ Fig.
 - click on this on top-left corner of page (home button)
 - To go to your profile just click the button which looks like this
 
+.. image::
+  https://raw.github.com/NileshSingh/IITBX_Document/master/usermanual_image/go_to_profile.png
+
 **To change password and full name and Email**
 
 - click on reset password (for password change)
+
 - click on edit for changing name or email
+
 - When you click on Reset password a new pop up kind of a thing appears showing some information
+
 - Then check your email and follow the steps in the email
+.. image::
+  https://raw.github.com/NileshSingh/IITBX_Document/master/usermanual_image/change_pass1.png
+ 
+Fig.
 
-Fig.
+.. image::
+  https://raw.github.com/NileshSingh/IITBX_Document/master/usermanual_image/change_pass1.png
 Fig.
 
-**Logout**
-Fig.
 
 **Help, Contact, Team**
+
 - See the bottom of the page which looks like this
+.. image::
+  https://raw.github.com/NileshSingh/IITBX_Document/master/usermanual_image/help.png
+  
 Fig.
 
 **FAQ**
+.. image::
+  https://raw.github.com/NileshSingh/IITBX_Document/master/usermanual_image/faq.png
 Fig.
 
 **About page**
+
 - When you click on about it will display a page like this
+
 - It gives information about the IITBX
+.. image::
+  https://raw.github.com/NileshSingh/IITBX_Document/master/usermanual_image/about_page.png
+  
 Fig.
 
 **Conact page**
+
 - When you click on the contact page you will get this page
+
 - You can use the emails to contact respective person
+.. image::
+  https://raw.github.com/NileshSingh/IITBX_Document/master/usermanual_image/contact_page.png
 Fig.
 
 Bibliography
