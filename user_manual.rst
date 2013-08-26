@@ -150,142 +150,130 @@ CMS user manual
 
 LMS user manual
 ---------------
-	**Introduction**
+**Introduction**
 
-		Learning Management System is a part of IITBX platform. IITBX is a massive open on-line course platform created 
-		by modifying the existing edX platform.
+Learning Management System is a part of IITBX platform. IITBX is a massive open on-line course platform created 
+by modifying the existing edX platform
+**Purpose**
+The main purpose of this document is “how to use IITBX MOOC website LMS to utilize world class video lectures, reading 			materials and quizzes.”
 
-	**Purpose**
-		The main purpose of this document is “how to use IITBX MOOC website LMS to utilize world class video lectures, reading 			materials and quizzes.”
+**How to use Learning Management System of IITBX website**
+- Requirements
+- He need to have any of the System (PC, Laptop etc.)
+- Internet Facility needed.
+- IITBX account is necessary to register courses.
+- Registration of course is necessary to use course resources.
 
-	**How to use Learning Management System of IITBX website**
-		- Requirements
-			- He need to have any of the System (PC, Laptop etc.)
-			- Internet Facility needed.
-			- IITBX account is necessary to register courses.
-			- Registration of course is necessary to use course resources.
+**Registration for IITBX account**
+- Open www.iitbx.org website to create an account.
+- When you open the website it looks as below except red mark.	
+- Click the REGISTER NOW button to create an account at IITBx website to get access to IITBX resources.
 
-	**Registration for IITBX account**
-		- Open www.iitbx.org website to create an account.
-		- When you open the website it looks as below except red mark.	
-		- Click the REGISTER NOW button to create an account at IITBx website to get access to IITBX resources.
-
-			click  to register
-				Fig.
-
-		- When you click on the REGISTER NOW button, you will get a page like shown in 
-	
-	**Registration Page**
-		- Registration page to create an account.
-
-	**Instructions**
-		- Enter a valid email address because it will send an activation email to your email account.
-		- Enter correct details and check the I agree to the Terms of Service and I agree to the Honor Code to continue.
-		- Click on create my iitbx account so you get an activation link to your entered email
-		- Then you will get a message saying thanks for registering
-		- The new page displayed like this
+click  to register
 .. image::
-https://raw.github.com/NileshSingh/IITBX_Document/master/usermanual_image/instruction.png
+https://raw.github.com/NileshSingh/IITBX_Document/master/usermanual_image/usermanual_registration.png
+Fig.
+
+- When you click on the REGISTER NOW button, you will get a page like shown in 
+**Registration Page**
+- Registration page to create an account.
+**Instructions**
+- Enter a valid email address because it will send an activation email to your email account.
+- Enter correct details and check the I agree to the Terms of Service and I agree to the Honor Code to continue.
+- Click on create my iitbx account so you get an activation link to your entered email
+- Then you will get a message saying thanks for registering
+- The new page displayed like this
+.. image::
+  https://raw.github.com/NileshSingh/IITBX_Document/master/usermanual_image/instruction.png
 			Fig.
 
-	**Finding Course**
-		- To see what are the course available click on Find Courses now.
-		- Then new will be displayed like this.
-			Fig.
+**Finding Course**
+- To see what are the course available click on Find Courses now.
+- Then new will be displayed like this.
+Fig.
+- You can search course in the search box and then click submit Query.
+- So it displays all related courses.
 
-		- You can search course in the search box and then click submit Query.
-		- So it displays all related courses.
+**Registering a Course**
+- Click on the course you are interested.
+Fig.
+- After clicking on the course you will get a page asking to register that course.
+Fig.
+- Click on REGISTER FOR IAP2013 (here )	
+- Then you are registered the course.
+- To view the course Just Click on View Course.
+Fig.
+- When you Click on view course to view videos, reading materials and quizsetc
+- The page looks like this
+Fig.
+**Accessing Course Contents**
+Here click on Course info  or It is default which shows any update news and information about the course
+Click  on Courseware to view all videos, reading materials etc
+When we click on Courseware it shows the sections of course as week1, week2 and so on.
+And The one that you recently used.
+Click on week1 to get week1 material.
+To get the corresponding things click on its subsections
+e.g. Introduction to Android Programming here
+Fig.
+- Then it shows the units it have e.g. here video
+Fig.
+**Multiple Choice Questions**
+- Click on the option to give your answer
+- Then click on check to check your answer
+Fig.
+- Click on Show Answer to see the explanation of the answer
 
-	**Registering a Course**
-		- Click on the course you are interested.
-			Fig.
-		- After clicking on the course you will get a page asking to register that course.
-			Fig.
-		- Click on REGISTER FOR IAP2013 (here )	
-		- Then you are registered the course.
-		- To view the course Just Click on View Course.
-			Fig.
-		- When you Click on view course to view videos, reading materials and quizsetc
-		- The page looks like this
-			Fig.
-	**Accessing Course Contents**
-		Here click on Course info  or It is default which shows any update news and information about the course
-		Click  on Courseware to view all videos, reading materials etc
-		When we click on Courseware it shows the sections of course as week1, week2 and so on.
-		And The one that you recently used.
-		Click on week1 to get week1 material.
+**Usage of Buttons on the bar**
 
-		To get the corresponding things click on its subsections
-	
-		e.g. Introduction to Android Programming here
+- When we click on below things the first red mark it will give the video.
+- The second marked one gives the Discussion forum.
+Fig.
+**Multiple components in the same unit**
+- For example, a unit can have one or more components i.e. quiz, video and reading material components 
+  can be displayed in same unit.
+Fig.
 
-			Fig.
+**To go to profile**
+- First login to your account
+- click on this on top-left corner of page (home button)
+- To go to your profile just click the button which looks like this
 
-		- Then it shows the units it have e.g. here video
-			Fig.
+**To change password and full name and Email**
 
-	**Multiple Choice Questions**
-		- Click on the option to give your answer
-		- Then click on check to check your answer
+- click on reset password (for password change)
+- click on edit for changing name or email
+- When you click on Reset password a new pop up kind of a thing appears showing some information
+- Then check your email and follow the steps in the email
 
-			Fig.
-		- Click on Show Answer to see the explanation of the answer
+Fig.
+Fig.
 
-	**Usage of Buttons on the bar**
+**Logout**
+Fig.
 
-		- When we click on below things the first red mark it will give the video.
-		- The second marked one gives the Discussion forum.
+**Help, Contact, Team**
+- See the bottom of the page which looks like this
+Fig.
 
-			Fig.
+**FAQ**
+Fig.
 
-	**Multiple components in the same unit**
-		- For example, a unit can have one or more components i.e. quiz, video and reading material components 
-		  can be displayed in same unit.
+**About page**
+- When you click on about it will display a page like this
+- It gives information about the IITBX
+Fig.
 
-			Fig.
-
-	**To go to profile**
-		- First login to your account
-		- click on this on top-left corner of page (home button)
-		- To go to your profile just click the button which looks like this
-
-	**To change password and full name and Email**
-
-		- click on reset password (for password change)
-		- click on edit for changing name or email
-		- When you click on Reset password a new pop up kind of a thing appears showing some information
-		- Then check your email and follow the steps in the email
-
-			Fig.
-			Fig.
-
-	**Logout**
-		Fig.
-
-	**Help, Contact, Team**
-		- See the bottom of the page which looks like this
-
-			Fig.
-
-	**FAQ**
-			Fig.
-
-	**About page**
-		- When you click on about it will display a page like this
-		- It gives information about the IITBX
-			Fig.
-
-	**Conact page**
-		- When you click on the contact page you will get this page
-		- You can use the emails to contact respective person
-			Fig.
+**Conact page**
+- When you click on the contact page you will get this page
+- You can use the emails to contact respective person
+Fig.
 
 Bibliography
 ============
-[1] https://github.com/edx
-[2] https://docs.djangoproject.com
-[3] http://docs.python.org
-[4] http://docs.mongodb.org/manual/
+https://github.com/edx
+https://docs.djangoproject.com
+http://docs.python.org
+http://docs.mongodb.org/manual/
 
 
 
