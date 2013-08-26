@@ -343,6 +343,7 @@ Fig.
 Fig.
 
 **FAQ**
+
 .. image::
   https://raw.github.com/NileshSingh/IITBX_Document/master/usermanual_image/faq.png
 Fig.
