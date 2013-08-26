@@ -137,29 +137,37 @@ The registered instructor can export the course designed by him/her in gzipped f
 - Use case view
 
 - User
+.. image::
+  https://raw.github.com/NileshSingh/IITBX_Document/master/images/user.png
 Fig.
 
 
 - Instructor use case
-
+.. image::
+  https://raw.github.com/NileshSingh/IITBX_Documentb/master/images/instructor_usecase.png
 Fig.
 
 - Activity diagrams
+.. image::
+  
 
 - User registration
 
 Initially user is made to fill all mandatory fields filled in registration form. Once the user clicks create 					an IITBX account, the username is verified. If the username is already present, then the user is again taken 					back, so that he can change the username. If the username is not present then it checks for password and 					remaining mandatory fields. If any of the mandatory field is left empty or filled incorrect, then the user is 					informed to enter the correct values. Once all these verifications are succeeded, then the registration is 					done and a confirmation mail is sent.
-
+.. image::
+  https://raw.github.com/NileshSingh/IITBX_Document/master/images/user_resgistration.png
 Fig.
 
 - User login activity
 
 User is made to enter the username and password, and then entered values are verified. If it is a valid 				username and password, then the user is logged in, or else he/she is asked to re-enter the values.
-
+.. image::
+  https://raw.github.com/NileshSingh/IITBX_Document/master/images/user_login_activity.png
 Fig.
 
 - Find courses
-
+.. image::
+  https://raw.github.com/NileshSingh/IITBX_Document/master/images/find_course.png
 Fig.
 
 - Discussion forum activity
