@@ -170,6 +170,7 @@ The main purpose of this document is “how to use IITBX MOOC website LMS to uti
 - Click the REGISTER NOW button to create an account at IITBx website to get access to IITBX resources.
 
 click  to register
+
 .. image::
   https://raw.github.com/NileshSingh/IITBX_Document/master/usermanual_image/usermanual_registration.png
 Fig.
