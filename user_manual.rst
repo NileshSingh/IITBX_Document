@@ -266,7 +266,9 @@ e.g. Introduction to Android Programming here
 .. image::
   https://raw.github.com/NileshSingh/IITBX_Document/master/usermanual_image/accessing_course1.png
 Fig.
+
 - Then it shows the units it have e.g. here video
+
 .. image::
   https://raw.github.com/NileshSingh/IITBX_Document/master/usermanual_image/accessing_course2.png
 Fig.
@@ -276,6 +278,7 @@ Fig.
 - Click on the option to give your answer
 
 - Then click on check to check your answer
+
 .. image::
   https://raw.github.com/NileshSingh/IITBX_Document/master/usermanual_image/multiple_choice.png
 Fig.
@@ -351,6 +354,7 @@ Fig.
 - When you click on the contact page you will get this page
 
 - You can use the emails to contact respective person
+
 .. image::
   https://raw.github.com/NileshSingh/IITBX_Document/master/usermanual_image/contact_page.png
 Fig.
