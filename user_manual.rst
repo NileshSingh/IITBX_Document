@@ -194,7 +194,7 @@ Fig.
 
 - Registration page to create an account.
 .. image::
-  https://github.com/NileshSingh/IITBX_Document/master/usermanual_image/usermanual_registration_page.png
+  https://raw.github.com/NileshSingh/IITBX_Document/master/usermanual_image/usermanual_registration_page.png
 
 **Instructions**
 
@@ -219,7 +219,7 @@ Fig.
 
 - Then new will be displayed like this.
 .. image::
-  https://github.com/NileshSingh/IITBX_Document/master/usermanual_image/finding_course.png
+  https://raw.github.com/NileshSingh/IITBX_Document/master/usermanual_image/finding_course.png
 Fig.
 
 - You can search course in the search box and then click submit Query.
@@ -232,7 +232,7 @@ Fig.
 - Click on the course you are interested.
 
 .. image::
-  https://github.com/NileshSingh/IITBX_Document/master/usermanual_image/registering_course.png
+  https://raw.github.com/NileshSingh/IITBX_Document/master/usermanual_image/registering_course.png
 Fig.
 
 
@@ -247,8 +247,9 @@ Fig.
 - Then you are registered the course.
 
 - To view the course Just Click on View Course.
+
 .. image::
-  https://github.com/NileshSingh/IITBX_Document/blob/master/usermanual_image/registering_course3.png
+  https://raw.github.com/NileshSingh/IITBX_Document/blob/master/usermanual_image/registering_course3.png
 Fig.
 - When you Click on view course to view videos, reading materials and quizsetc
 - The page looks like this
