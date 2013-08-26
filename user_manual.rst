@@ -193,6 +193,7 @@ Fig.
 **Registration Page**
 
 - Registration page to create an account.
+
 .. image::
   https://github.com/NileshSingh/IITBX_Document/master/usermanual_image/usermanual_registration_page.png
 
