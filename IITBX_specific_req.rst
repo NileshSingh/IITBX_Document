@@ -15,7 +15,7 @@ Specific Requirements
 
 		- User Dashboard
 
-		.. image:: .. /images/User_Dashboard.png
+.. image::images/User_Dashboard.png
 
 
 		- Courseware interface
