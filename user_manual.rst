@@ -301,12 +301,15 @@ Fig.
   can be displayed in same unit.
   
 .. image::
-  https://raw.github.com/NileshSingh/IITBX_Document/master/usermanual_image/multiple_component_in sameUnit.png
+  https://github.com/NileshSingh/IITBX_Document/master/usermanual_image/multiple_component_in%20sameUnit.png
 Fig.
 
 **To go to profile**
+
 - First login to your account
+
 - click on this on top-left corner of page (home button)
+
 - To go to your profile just click the button which looks like this
 
 .. image::
