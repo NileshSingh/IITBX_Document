@@ -154,20 +154,32 @@ LMS user manual
 
 Learning Management System is a part of IITBX platform. IITBX is a massive open on-line course platform created 
 by modifying the existing edX platform
+
 **Purpose**
+
 The main purpose of this document is “how to use IITBX MOOC website LMS to utilize world class video lectures, reading 			materials and quizzes.”
 
 **How to use Learning Management System of IITBX website**
+
 - Requirements
+
 - He need to have any of the System (PC, Laptop etc.)
+
 - Internet Facility needed.
+
 - IITBX account is necessary to register courses.
+
 - Registration of course is necessary to use course resources.
 
+
 **Registration for IITBX account**
+
 - Open www.iitbx.org website to create an account.
+
 - When you open the website it looks as below except red mark.	
+
 - Click the REGISTER NOW button to create an account at IITBx website to get access to IITBX resources.
+
 
 click  to register
 
@@ -175,37 +187,69 @@ click  to register
   https://raw.github.com/NileshSingh/IITBX_Document/master/usermanual_image/usermanual_registration.png
 Fig.
 
+
 - When you click on the REGISTER NOW button, you will get a page like shown in 
 
 **Registration Page**
+
 - Registration page to create an account.
+.. image::
+  https://github.com/NileshSingh/IITBX_Document/master/usermanual_image/usermanual_registration_page.png
 
 **Instructions**
+
 - Enter a valid email address because it will send an activation email to your email account.
+
 - Enter correct details and check the I agree to the Terms of Service and I agree to the Honor Code to continue.
+
 - Click on create my iitbx account so you get an activation link to your entered email
+
 - Then you will get a message saying thanks for registering
+
 - The new page displayed like this
+
 
 .. image::
   https://raw.github.com/NileshSingh/IITBX_Document/master/usermanual_image/instruction.png
 Fig.
 
 **Finding Course**
+
 - To see what are the course available click on Find Courses now.
+
 - Then new will be displayed like this.
+
+.. image::
+  https://github.com/NileshSingh/IITBX_Document/master/usermanual_image/finding_course.png
 Fig.
+
 - You can search course in the search box and then click submit Query.
+
 - So it displays all related courses.
 
+
 **Registering a Course**
+
 - Click on the course you are interested.
+
+.. image::
+  https://github.com/NileshSingh/IITBX_Document/master/usermanual_image/registering_course.png
 Fig.
+
+
 - After clicking on the course you will get a page asking to register that course.
+
+
+  
 Fig.
+
 - Click on REGISTER FOR IAP2013 (here )	
+
 - Then you are registered the course.
+
 - To view the course Just Click on View Course.
+.. image::
+  https://github.com/NileshSingh/IITBX_Document/blob/master/usermanual_image/registering_course3.png
 Fig.
 - When you Click on view course to view videos, reading materials and quizsetc
 - The page looks like this
