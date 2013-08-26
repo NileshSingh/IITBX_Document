@@ -13,11 +13,13 @@ Fig.
 
 
 - Registration interface
-
+.. image::
+  https://raw.github.com/NileshSingh/IITBX_Document/master/images/registration_interface.png
 Fig.
 
 - User Dashboard
-
+.. image::
+  https://raw.github.com/NileshSingh/IITBX_Document/master/images/User_Dashboard.png
 Fig.	
 
 - Courseware interface
