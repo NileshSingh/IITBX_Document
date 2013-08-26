@@ -23,19 +23,23 @@ Fig.
 Fig.	
 
 - Courseware interface
-
+.. image::
+  https://raw.github.com/NileshSingh/IITBX_Document/master/images/courseware_interface.png
 Fig.
 
 - Wiki-edit interface
-
+.. image::
+  https://raw.github.com/NileshSingh/IITBX_Document/master/images/wiki_edit_inter.png
 Fig.
 
 - Wiki-view interface
-
+.. image::
+  https://raw.github.com/NileshSingh/IITBX_Document/master/images/wiki_view.png
 Fig.
 
 - Edit information interface
-
+.. image::
+  https://raw.github.com/NileshSingh/IITBX_Document/master/images/edit_info_inter.png 
 Fig.
 
 **Functional Requirements**
