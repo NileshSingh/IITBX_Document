@@ -172,12 +172,12 @@ Fig.
 
 - Discussion forum activity
 .. image::
-https://raw.github.com/NileshSingh/IITBX_Document/master/images/discussion_forum_activity.png
+  https://raw.github.com/NileshSingh/IITBX_Document/master/images/discussion_forum_activity.png
 Fig.
 
 - Check progress activity
 .. image::
-https://raw.github.com/NileshSingh/IITBX_Document/master/images/check_progress_activity.png
+  https://raw.github.com/NileshSingh/IITBX_Document/master/images/check_progress_activity.png
 Fig.
 
 			
