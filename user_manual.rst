@@ -301,7 +301,7 @@ Fig.
   can be displayed in same unit.
   
 .. image::
-  https://github.com/NileshSingh/IITBX_Document/master/usermanual_image/multiple_component_in%20sameUnit.png
+  https://raw.github.com/NileshSingh/IITBX_Document/master/usermanual_image/multiple_component_in%20sameUnit.png
 Fig.
 
 **To go to profile**
