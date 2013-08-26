@@ -184,7 +184,8 @@ LMS user manual
 		- Click on create my iitbx account so you get an activation link to your entered email
 		- Then you will get a message saying thanks for registering
 		- The new page displayed like this
-
+.. image::
+https://raw.github.com/NileshSingh/IITBX_Document/master/usermanual_image/instruction.png
 			Fig.
 
 	**Finding Course**
