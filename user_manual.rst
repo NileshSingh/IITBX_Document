@@ -171,21 +171,24 @@ The main purpose of this document is “how to use IITBX MOOC website LMS to uti
 
 click  to register
 .. image::
-https://raw.github.com/NileshSingh/IITBX_Document/master/usermanual_image/usermanual_registration.png
+  https://raw.github.com/NileshSingh/IITBX_Document/master/usermanual_image/usermanual_registration.png
 Fig.
 
 - When you click on the REGISTER NOW button, you will get a page like shown in 
+
 **Registration Page**
 - Registration page to create an account.
+
 **Instructions**
 - Enter a valid email address because it will send an activation email to your email account.
 - Enter correct details and check the I agree to the Terms of Service and I agree to the Honor Code to continue.
 - Click on create my iitbx account so you get an activation link to your entered email
 - Then you will get a message saying thanks for registering
 - The new page displayed like this
+
 .. image::
   https://raw.github.com/NileshSingh/IITBX_Document/master/usermanual_image/instruction.png
-			Fig.
+Fig.
 
 **Finding Course**
 - To see what are the course available click on Find Courses now.
