@@ -248,8 +248,11 @@ Fig.
 .. image::
   https://raw.github.com/NileshSingh/IITBX_Document/master/usermanual_image/registering_course3.png
 Fig.
+
 - When you Click on view course to view videos, reading materials and quizsetc
+
 - The page looks like this
+
 .. image::
   https://raw.github.com/NileshSingh/IITBX_Document/master/usermanual_image/registering_course4.png
 Fig.
@@ -263,6 +266,7 @@ And The one that you recently used.
 Click on week1 to get week1 material.
 To get the corresponding things click on its subsections
 e.g. Introduction to Android Programming here
+
 .. image::
   https://raw.github.com/NileshSingh/IITBX_Document/master/usermanual_image/accessing_course1.png
 Fig.
@@ -295,6 +299,7 @@ Fig.
 
 - For example, a unit can have one or more components i.e. quiz, video and reading material components 
   can be displayed in same unit.
+  
 .. image::
   https://raw.github.com/NileshSingh/IITBX_Document/master/usermanual_image/multiple_component_in sameUnit.png
 Fig.
