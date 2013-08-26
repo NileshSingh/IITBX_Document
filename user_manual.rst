@@ -371,9 +371,13 @@ Fig.
 Bibliography
 ============
 https://github.com/edx
+
 https://docs.djangoproject.com
+
 http://docs.python.org
+
 http://docs.mongodb.org/manual/
+
 
 
 
